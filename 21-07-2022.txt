@@ -1,0 +1,2 @@
+https://www.w3schools.com/js/DEFAULT.asp
+https://www.javatpoint.com/javascript-tutorial
